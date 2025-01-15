@@ -1,0 +1,11 @@
+# matplotlib
+numpy
+# ortools
+pandas
+# progressbar
+tqdm
+# PyYAML
+# scipy
+# seaborn
+sortedcontainers
+docplex
